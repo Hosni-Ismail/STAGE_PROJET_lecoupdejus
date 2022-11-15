@@ -16,10 +16,10 @@ $instagram_link = "#";
 $googleplus_link = "#";
 
 //Database Settings
-$servername = "lecoupsmtimera.mysql.db";
-$username = "lecoupsmtimera";
-$password = "Z4xSfe2ZmneyTd";
-$dbname = "lecoupsmtimera";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 //Contact Settings
 $site_email = "contact-us@lecoupdejus.fr";
